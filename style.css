@@ -1,14 +1,16 @@
 
 
 .nav-color {
-    background-color:#55423d;
+    background-color:#865DFF;
 
 }
 
 body{
-    background-color:#0f0e17;
+    background-color:#4E31AA;
 
-    color: #fffffe;
+    color:white;
 }
 
-
+p{
+    font-weight: 800;
+}
