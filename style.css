@@ -1,16 +1,30 @@
 
 
 .nav-color {
-    background-color:#865DFF;
+    background-color:black;
 
 }
 
 body{
-    background-color:#4E31AA;
+    background-color:white;
 
-    color:white;
+    color:black;
 }
 
 p{
     font-weight: 800;
+}
+
+footer{
+    background-color:white;
+}
+
+center{ text-align: center;
+
+}
+
+hr{
+    border-width:  8px;
+    
+    border-color: black;
 }
