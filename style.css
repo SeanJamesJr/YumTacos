@@ -20,11 +20,11 @@ footer{
 }
 
 center{ text-align: center;
-
 }
 
+
 hr{
-    border-width:  8px;
-    
+    border-width:  10px;
     border-color: black;
+    opacity: 1;
 }
