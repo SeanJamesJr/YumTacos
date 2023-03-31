@@ -28,3 +28,34 @@ hr{
     border-color: black;
     opacity: 1;
 }
+
+#linkden {font-size: 54px;
+    color: palevioletred ;
+}
+#github {font-size: 54px;
+    color: palevioletred;
+}
+#gmail {font-size: 54px;
+    color: palevioletred;
+}
+
+input:focus, text area:focus {
+    background-color: lightgray;
+    
+}
+
+
+input,textarea {
+    background-color: #d1d1e9
+    ;
+    border-radius: 8px;
+    color: black;
+    padding: 8px 12px 14px 11px;
+    border-width : 2px;
+    border-color: #232946;
+}
+
+input:focus, text area:focus {
+    background-color: lightgray;
+    
+}
